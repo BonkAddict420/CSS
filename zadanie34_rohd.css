@@ -1,0 +1,12 @@
+/* Adam Rohde 2F g2 */
+
+h3 {
+    width: 400pt;
+    height: 1.5cm;
+    padding: 15px;
+    margin: 10px auto;
+    font-size: 12px;
+
+    background-color: rgb(70, 130, 200);
+    border: 4px inset #800080;
+}
